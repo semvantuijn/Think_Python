@@ -1,0 +1,18 @@
+1. THE WAY OF THE PROGRAM
+
+
+input: Get data from the keyboard, a file, the network, or some other device.
+output: Display data on the screen, save it in a file, send it over the network, etc.
+math: Perform basic mathematical operations like addition and multiplication.
+conditional execution: Check for certain conditions and run the appropriate code.
+
+operators: special symbols that represent computations like addition and multiplication (+, -, *, /).
+
+If you are not sure what type a value has, the interpreter can tell you:
+>>> type(2)
+<class 'int'>
+>>> type(42.0)
+<class 'float'>
+>>> type('Hello, World!')
+<class 'str'>
+
