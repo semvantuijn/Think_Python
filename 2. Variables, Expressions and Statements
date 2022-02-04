@@ -1,0 +1,18 @@
+2. VARIABLES, EXPRESSIONS AND STATEMENTS
+
+Python has these keywords:
+False class finally is return None continue for lambda try True def from nonlocal while
+and del global not with as elif if or yield assert else import pass break except in raise
+
+String operations:
+You normally can't perform mathematical operations on strings
+>>>'chinese'-'food' = illegal
+
+>>> first = 'throat'
+>>> second = 'warbler'
+>>> first + second
+throatwarbler
+
+>>>'spam'*3
+'spam''spam''spam'
+
